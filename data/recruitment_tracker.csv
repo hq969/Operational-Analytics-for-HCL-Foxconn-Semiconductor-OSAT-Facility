@@ -1,0 +1,101 @@
+Candidate_ID,Department,Status,Joining_Date
+C1019,Testing,Hired,2025-06-05
+C1047,Logistics,Interview Scheduled,2025-02-28
+C1037,Testing,Onboarding,2025-05-18
+C1017,Packaging,Onboarding,2025-05-13
+C1014,Testing,Interview Scheduled,2025-06-11
+C1084,Assembly,Rejected,2025-03-28
+C1076,Assembly,Interview Scheduled,2025-06-27
+C1021,Logistics,Onboarding,2025-05-21
+C1001,Packaging,Interview Scheduled,2025-01-27
+C1099,Packaging,Hired,2025-04-10
+C1023,Packaging,Onboarding,2025-04-01
+C1075,Packaging,Hired,2025-01-31
+C1017,Packaging,Rejected,2025-03-24
+C1092,Packaging,Interview Scheduled,2025-04-14
+C1038,Testing,Rejected,2025-04-19
+C1038,Testing,Rejected,2025-05-03
+C1026,Assembly,Hired,2025-01-19
+C1088,Logistics,Interview Scheduled,2025-04-05
+C1045,Packaging,Interview Scheduled,2025-06-20
+C1083,Packaging,Hired,2025-06-13
+C1002,Assembly,Hired,2025-03-18
+C1034,Logistics,Hired,2025-02-20
+C1034,Assembly,Hired,2025-01-14
+C1097,Logistics,Interview Scheduled,2025-01-18
+C1046,Logistics,Onboarding,2025-03-23
+C1011,Packaging,Interview Scheduled,2025-02-20
+C1049,Packaging,Hired,2025-05-17
+C1035,Logistics,Rejected,2025-01-05
+C1041,Logistics,Interview Scheduled,2025-02-15
+C1015,Packaging,Hired,2025-05-14
+C1071,Packaging,Hired,2025-06-19
+C1055,Logistics,Onboarding,2025-06-10
+C1074,Assembly,Rejected,2025-06-05
+C1027,Logistics,Onboarding,2025-01-02
+C1069,Logistics,Onboarding,2025-04-20
+C1077,Packaging,Onboarding,2025-02-08
+C1066,Packaging,Rejected,2025-03-23
+C1058,Assembly,Rejected,2025-06-20
+C1005,Assembly,Onboarding,2025-01-03
+C1021,Packaging,Hired,2025-03-01
+C1078,Assembly,Hired,2025-03-15
+C1096,Assembly,Hired,2025-03-26
+C1054,Logistics,Interview Scheduled,2025-02-23
+C1039,Logistics,Rejected,2025-03-13
+C1010,Assembly,Hired,2025-03-23
+C1003,Assembly,Interview Scheduled,2025-01-10
+C1051,Logistics,Rejected,2025-02-10
+C1093,Assembly,Hired,2025-03-20
+C1025,Assembly,Onboarding,2025-03-09
+C1082,Testing,Rejected,2025-02-10
+C1049,Assembly,Rejected,2025-04-09
+C1056,Testing,Hired,2025-02-04
+C1059,Testing,Hired,2025-03-15
+C1036,Logistics,Onboarding,2025-05-01
+C1047,Assembly,Hired,2025-05-07
+C1068,Testing,Hired,2025-04-10
+C1100,Assembly,Onboarding,2025-04-07
+C1035,Assembly,Hired,2025-02-03
+C1048,Logistics,Interview Scheduled,2025-03-08
+C1074,Testing,Hired,2025-01-27
+C1074,Assembly,Hired,2025-02-26
+C1060,Logistics,Rejected,2025-04-15
+C1090,Assembly,Interview Scheduled,2025-02-25
+C1035,Packaging,Rejected,2025-01-09
+C1014,Logistics,Onboarding,2025-04-16
+C1086,Testing,Onboarding,2025-05-16
+C1099,Assembly,Interview Scheduled,2025-06-02
+C1036,Testing,Rejected,2025-05-31
+C1089,Assembly,Rejected,2025-03-17
+C1081,Testing,Interview Scheduled,2025-01-09
+C1034,Testing,Hired,2025-03-06
+C1061,Packaging,Onboarding,2025-03-09
+C1095,Packaging,Onboarding,2025-05-14
+C1100,Packaging,Onboarding,2025-03-28
+C1049,Assembly,Interview Scheduled,2025-01-12
+C1090,Assembly,Rejected,2025-04-22
+C1025,Testing,Onboarding,2025-01-29
+C1007,Logistics,Hired,2025-06-16
+C1002,Assembly,Interview Scheduled,2025-06-01
+C1090,Packaging,Hired,2025-02-03
+C1069,Testing,Hired,2025-06-05
+C1100,Assembly,Rejected,2025-01-09
+C1056,Assembly,Interview Scheduled,2025-05-14
+C1012,Logistics,Rejected,2025-06-29
+C1003,Testing,Onboarding,2025-03-01
+C1068,Testing,Interview Scheduled,2025-02-15
+C1021,Packaging,Interview Scheduled,2025-06-02
+C1078,Logistics,Hired,2025-01-24
+C1059,Testing,Interview Scheduled,2025-01-16
+C1099,Assembly,Onboarding,2025-05-08
+C1045,Testing,Hired,2025-03-23
+C1009,Testing,Onboarding,2025-05-11
+C1046,Packaging,Rejected,2025-03-10
+C1084,Assembly,Onboarding,2025-04-30
+C1096,Testing,Rejected,2025-02-02
+C1078,Assembly,Hired,2025-06-15
+C1063,Packaging,Onboarding,2025-01-22
+C1009,Packaging,Onboarding,2025-01-19
+C1027,Logistics,Interview Scheduled,2025-05-28
+C1027,Packaging,Onboarding,2025-01-12

@@ -1,0 +1,101 @@
+Delivery_Date,Supplier_Name,Expected_Delivery_Days,Actual_Delivery_Days
+2025-01-01,"Williams, Hall and Bernard",5,3
+2025-01-02,Miller Group,6,6
+2025-01-03,"Berry, Reed and Roberts",2,9
+2025-01-04,"Nielsen, Thomas and Martin",4,8
+2025-01-05,Williams-Simmons,4,8
+2025-01-06,Lowe-Miller,5,6
+2025-01-07,Martin Group,4,9
+2025-01-08,Ellis-Clark,6,4
+2025-01-09,Barton-Vance,4,8
+2025-01-10,Ross and Sons,5,4
+2025-01-11,Joseph-Hayes,4,9
+2025-01-12,Hill-Foster,3,8
+2025-01-13,"Jenkins, Brooks and Jackson",2,7
+2025-01-14,Delgado PLC,6,6
+2025-01-15,Jones-Ramos,6,5
+2025-01-16,Cole-Smith,4,7
+2025-01-17,Bailey-Young,2,4
+2025-01-18,Gray LLC,5,6
+2025-01-19,Brown LLC,6,7
+2025-01-20,Yang-Montes,5,3
+2025-01-21,Davis-Michael,3,7
+2025-01-22,Perry-Golden,4,7
+2025-01-23,"Richardson, Edwards and Mathis",5,6
+2025-01-24,Delacruz Inc,5,4
+2025-01-25,Harvey Ltd,4,7
+2025-01-26,"Mendez, Clark and Chung",6,3
+2025-01-27,Porter-Solomon,5,4
+2025-01-28,Torres-Myers,5,6
+2025-01-29,"Medina, Frazier and Wilson",2,5
+2025-01-30,Spencer and Sons,2,5
+2025-01-31,Harper LLC,6,3
+2025-02-01,Dickson-Jacobs,6,7
+2025-02-02,"Cooper, Liu and Benson",6,9
+2025-02-03,Cole-Garcia,4,9
+2025-02-04,"Miller, Hernandez and Newman",4,7
+2025-02-05,Robbins LLC,3,4
+2025-02-06,Brown-Bush,5,9
+2025-02-07,Rodriguez-King,4,6
+2025-02-08,Green-Adkins,2,9
+2025-02-09,Adkins and Sons,2,5
+2025-02-10,Townsend LLC,6,3
+2025-02-11,Mitchell-Petersen,2,9
+2025-02-12,"Murray, Smith and Ballard",6,7
+2025-02-13,Mcdowell PLC,6,7
+2025-02-14,Thompson-Pacheco,6,9
+2025-02-15,Garcia LLC,4,7
+2025-02-16,"Johnson, Patterson and Blevins",3,7
+2025-02-17,Farmer PLC,5,4
+2025-02-18,Moore-Moore,3,6
+2025-02-19,"Manning, Dunn and Shaffer",6,5
+2025-02-20,Armstrong-Meyers,4,3
+2025-02-21,Clark-Moran,6,5
+2025-02-22,"Walker, Richardson and Hunt",3,9
+2025-02-23,Jackson-Garcia,2,4
+2025-02-24,Wade-Arnold,2,7
+2025-02-25,Gray Ltd,2,8
+2025-02-26,Maldonado Group,5,9
+2025-02-27,Clark-Adams,2,3
+2025-02-28,Clayton-Johns,4,9
+2025-03-01,Hunt and Sons,5,9
+2025-03-02,"Reynolds, Carrillo and Pena",2,3
+2025-03-03,Pittman-Mathis,6,9
+2025-03-04,"Stevens, Ibarra and Miller",5,9
+2025-03-05,Roth-Sims,3,8
+2025-03-06,Gibson-Fletcher,4,3
+2025-03-07,Hunter and Sons,5,5
+2025-03-08,Hall Ltd,6,6
+2025-03-09,Franklin LLC,6,5
+2025-03-10,Hubbard-White,4,4
+2025-03-11,Mann LLC,6,5
+2025-03-12,Garcia Inc,4,7
+2025-03-13,"Mitchell, Stuart and Cross",2,9
+2025-03-14,"Howard, Lee and Nelson",6,8
+2025-03-15,Martin-Hunt,6,8
+2025-03-16,Le-White,5,3
+2025-03-17,"Martinez, Hernandez and Campbell",5,3
+2025-03-18,"Chambers, Collins and Dunn",4,6
+2025-03-19,"Camacho, Yu and Wells",5,5
+2025-03-20,Pitts Inc,4,8
+2025-03-21,Peterson-Jones,4,7
+2025-03-22,Taylor and Sons,6,7
+2025-03-23,"Bates, Hopkins and Case",4,5
+2025-03-24,Rice Ltd,6,9
+2025-03-25,"Morris, Black and Mccoy",6,8
+2025-03-26,Spencer-Smith,5,5
+2025-03-27,"Cantu, Reed and Jackson",2,5
+2025-03-28,"Velazquez, Brooks and Escobar",6,5
+2025-03-29,"Anderson, Griffin and Johnson",3,7
+2025-03-30,Wilson-Smith,2,5
+2025-03-31,Phillips-Mccarty,4,5
+2025-04-01,"Fuller, Medina and Allen",2,3
+2025-04-02,Hill-Wolf,3,5
+2025-04-03,"Cooper, Perry and Mack",2,7
+2025-04-04,"Clark, Galvan and Logan",6,7
+2025-04-05,Owen-Morrison,2,8
+2025-04-06,Wise LLC,4,9
+2025-04-07,Harris Ltd,5,8
+2025-04-08,Dean-Ware,5,3
+2025-04-09,Baxter-Smith,4,3
+2025-04-10,Torres Group,6,5
